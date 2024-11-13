@@ -62,6 +62,6 @@ Calendar Sync: Synchronize booked appointments with users’ Google or Outlook c
 Doctor Availability: Add doctor-specific availability for more accurate booking options.
 
 Contact
-For questions or support, reach out to Deependra Raj Amit, CSE IV Year at deependra.raj.amit.email@gmail.com.
+For questions or support, reach out to Deependra Raj Amit, CSE IV Year at deependra.raj.amit@gmail.com.
 
 

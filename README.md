@@ -1,7 +1,4 @@
 Doctor Appointment Booking App
-Developed by:
-Deependra Raj Amit
-CSE IV Year, Roll No: 310521104025
 
 Project Overview
 The Doctor Appointment Booking App provides an easy-to-use platform for users to book appointments with doctors, view doctor profiles, and manage their schedules. It is built using the MERN stack (MongoDB, Express.js, React, Node.js) and aims to simplify the process of booking and managing healthcare appointments for both patients and doctors.
@@ -61,7 +58,5 @@ Payment Integration: Include options for secure payment handling during booking.
 Calendar Sync: Synchronize booked appointments with users’ Google or Outlook calendars.
 Doctor Availability: Add doctor-specific availability for more accurate booking options.
 
-Contact
-For questions or support, reach out to Deependra Raj Amit, CSE IV Year at deependra.raj.amit@gmail.com.
 
 
